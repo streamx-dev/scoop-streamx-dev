@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3-scoop-alpha",
+  "version": "0.2.3",
   "description": "CLI for StreamX",
   "homepage": "https://www.streamx.dev",
   "license": "EULA",
-  "url": "https://github.com/streamx-dev/streamx-cli/releases/download/0.2.3-scoop-alpha/streamx-0.2.3-scoop-alpha.zip",
-  "hash": "sha256:603609f4f800bf9046d4f0bea2145e2b4ffe8e8d44aa88a4d2e4934555c971c9",
-  "extract_dir": "streamx-0.2.3-scoop-alpha",
+  "url": "https://github.com/streamx-dev/streamx-cli/releases/download/0.2.3/streamx-0.2.3.zip",
+  "hash": "sha256:196fe73bce0ac0be3846d503ad596d1c2da76cfcf7e918a8166d069d755f4668",
+  "extract_dir": "streamx-0.2.3",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
