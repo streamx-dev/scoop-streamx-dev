@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "CLI for StreamX",
   "homepage": "https://www.streamx.dev",
   "license": "EULA",
-  "url": "https://github.com/streamx-dev/streamx-cli/releases/download/0.2.4/streamx-0.2.4.zip",
-  "hash": "sha256:ec886bbc356985c1a2dde9ef7eef17eb08c4510071da16a730f724fb82e53839",
-  "extract_dir": "streamx-0.2.4",
+  "url": "https://github.com/streamx-dev/streamx-cli/releases/download/0.2.5/streamx-0.2.5.zip",
+  "hash": "sha256:cd6a3b77ad9d34e56f4b2968478dca2b7828a7c8b975a9a2b675a081f64a9d54",
+  "extract_dir": "streamx-0.2.5",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
